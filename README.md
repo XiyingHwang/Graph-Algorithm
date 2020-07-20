@@ -1,2 +1,2 @@
 # Graph-Algorithm
-Please check HW8.pdf for the description of this project.
+Please check HW8.pdf for the descriptions of this project.
